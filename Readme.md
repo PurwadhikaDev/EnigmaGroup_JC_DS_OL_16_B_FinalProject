@@ -17,3 +17,6 @@ This repository contains an analysis of customer churn for a telecommunications 
 ## Author
 
 This project was developed by Dadang, Herry, and Nabila from Enigma Group Final Project.
+
+## Tableau Link
+https://public.tableau.com/app/profile/herry.rangkuti/viz/TelcoChurn_17404043749340/Dashboard1?publish=yes
