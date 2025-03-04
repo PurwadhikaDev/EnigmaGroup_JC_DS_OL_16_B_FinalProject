@@ -6,10 +6,10 @@ The goal of this project is to build the most effective Machine Learning model t
 
 The dataset used comes from the IBM Watson Repository - Sample Datasets for Customer Retention Programs, where each row represents a customer, and each column represents a specific customer attribute. These attributes include:
 
-**Target Variable**: The `Churn` column indicates whether a customer has remained subscribed (0) or churned within the last month (1).
-**Service Types**: These attributes describe the types of services customers have signed up for, including phone service, multiple lines, internet service, online security, online backup, device protection, tech support, and streaming for TV and movies.
-**Customer Account Information**: This includes details about the customer’s subscription, such as contract type, payment method, paperless billing preference, monthly charges, and total charges.
-**Demographic Information**: This contains additional customer details, including gender, senior citizenship status, and whether they have a partner or dependents.
+- **Target Variable**: The `Churn` column indicates whether a customer has remained subscribed (0) or churned within the last month (1).
+- **Service Types**: These attributes describe the types of services customers have signed up for, including phone service, multiple lines, internet service, online security, online backup, device protection, tech support, and streaming for TV and movies.
+- **Customer Account Information**: This includes details about the customer’s subscription, such as contract type, payment method, paperless billing preference, monthly charges, and total charges.
+- **Demographic Information**: This contains additional customer details, including gender, senior citizenship status, and whether they have a partner or dependents.
 
 ## Dataset Attributes
 
