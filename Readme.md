@@ -11,15 +11,7 @@ The dataset used comes from the IBM Watson Repository - Sample Datasets for Cust
 **Customer Account Information**: This includes details about the customer’s subscription, such as contract type, payment method, paperless billing preference, monthly charges, and total charges.
 **Demographic Information**: This contains additional customer details, including gender, senior citizenship status, and whether they have a partner or dependents.
 
-
-
-
-
-
-
-
-## Columns Descriptions
-# Dataset Attributes
+## Dataset Attributes
 
 | **Attribute**        | **Description** |
 |----------------------|----------------|
@@ -54,13 +46,10 @@ The dataset used comes from the IBM Watson Repository - Sample Datasets for Cust
 - Hyperparameter tuning to optimize model performance.
 - Feature importance analysis to understand the most significant predictors of churn.
 
-## Results and Insights
-
-
 
 ## Author
 
 This project was developed by Dadang, Herry, and Nabila from Enigma Group Final Project.
 
 ## Tableau Link
-https://public.tableau.com/app/profile/herry.rangkuti/viz/TelcoChurn_17404043749340/Dashboard1?publish=yes
+https://public.tableau.com/views/DashboardEnigma/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
