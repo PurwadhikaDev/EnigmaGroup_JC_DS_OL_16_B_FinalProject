@@ -37,6 +37,22 @@ The dataset used comes from the IBM Watson Repository - Sample Datasets for Cust
 | `TotalCharges`     | Total amount charged to the customer |
 | `Churn`           | Whether the customer has churned or not (Yes, No) |
 
+## Problem Statement
+
+High churn rates impact increased customer acquisition costs and reduced stable revenue. Companies need to invest (incur costs) to acquire new customers. According to [Harvard Business Review](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers), acquiring a new customer can be 5 to 25 times more expensive than retaining an existing one. Therefore, to reduce churn and improve customer retention, telecommunications companies need to identify customers at risk of discontinuing their services.
+
+## Objectives
+
+The company wants to identify customers who are at high risk of discontinuing the company's services. By understanding customers at risk of churn, the company can direct retention efforts more efficiently, reducing the need for large expenditures on new customer acquisition. By lowering the churn rate, the company can ensure a more stable revenue stream and increase long-term profitability.
+
+
+
+
+
+
+
+
+
 
 ## Notebook Overview
 
